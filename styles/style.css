@@ -1,0 +1,38 @@
+main {
+    background-color: #776483;
+    margin: 50px;
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+  }
+
+h1 {
+  font-family: 'Fox on the Run';
+  color: #292643;
+}
+
+h2 {
+  font-family: 'Fox on the Run';
+  background-color: #776483;
+  color: #d0cfcd;
+  height: 100px;
+  font-size: 34px;
+}
+
+h3 {
+  color: #d0cfcd;
+}
+
+.hond {
+  background-color: #d0cfcd;
+  width: 250px;
+}
+
+.one, .two, .three, .four {
+  background-color: #d0cfcd;
+  width: 250px;
+  text-align: center;
+}
+
+.dark {
+  background-color: #292643;
+}
